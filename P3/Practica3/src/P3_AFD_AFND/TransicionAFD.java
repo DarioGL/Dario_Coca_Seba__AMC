@@ -23,6 +23,7 @@ public class TransicionAFD {
 		this.simbolo = simbolo;
 		this.estadoDestino = estadoDestino;
                 //borrar estado
+                //prueba
 	}
 
         /**
