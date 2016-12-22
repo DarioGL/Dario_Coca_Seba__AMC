@@ -22,6 +22,7 @@ public class TransicionAFD {
 		this.estadoOrigen = estadoOrigen;
 		this.simbolo = simbolo;
 		this.estadoDestino = estadoDestino;
+                //borrar estado
 	}
 
         /**
