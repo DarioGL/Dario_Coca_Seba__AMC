@@ -22,7 +22,7 @@ public class TransicionAFD {
 		this.estadoOrigen = estadoOrigen;
 		this.simbolo = simbolo;
 		this.estadoDestino = estadoDestino;
-                //hola k ase
+    //hola k ase
 	}
 
         /**
